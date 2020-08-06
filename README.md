@@ -1,6 +1,6 @@
-# Front End React Evaluation
-This is a project to evaluate prospectus employees on their knowledge of react and
-other FE principles.
+# Zustand Demo
+This is simply a evaluation project we created at my company but I wanted to use it
+to test out the https://github.com/react-spring/zustand state management tool
 
 ## Starting Up Env
 This project was created using create react app so to get the initial app
